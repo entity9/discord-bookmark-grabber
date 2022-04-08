@@ -1,4 +1,4 @@
-## 🐙 Mini Token Monster
+## 🐙 Discord Bookmark Token Logger
 A POC Discord token grabber in the form of a Chrome bookmark.
 Credit to GalaxzyDev.
 
